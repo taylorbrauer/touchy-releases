@@ -40,6 +40,11 @@ Older versions and release notes are on the [Releases page](https://github.com/t
 
 Lightswitch has no analytics and makes no network connections.
 
+## Support
+
+Lightswitch is free. If it's useful to you,
+[subscribe on YouTube](https://www.youtube.com/@taylorbrauer?sub_confirmation=1).
+
 ## Problems or ideas
 
 [Open an issue](https://github.com/taylorbrauer/lightswitch-releases/issues/new/choose).
