@@ -1,5 +1,5 @@
 name: Bug report
-description: Something in Lightswitch isn't working
+description: Something in Touchy isn't working
 labels: [bug]
 body:
   - type: dropdown
@@ -19,7 +19,7 @@ body:
   - type: input
     id: version
     attributes:
-      label: Lightswitch version
+      label: Touchy version
       placeholder: "0.4.0"
     validations:
       required: true
@@ -39,4 +39,4 @@ body:
     id: logs
     attributes:
       label: Logs
-      description: For touch-switch problems, drag in ~/Library/Logs/Lightswitch-axtree.txt.
+      description: For touch-switch problems, drag in ~/Library/Logs/Touchy-axtree.txt.
