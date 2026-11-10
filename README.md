@@ -44,7 +44,7 @@ Lightswitch has no analytics and makes no network connections.
 
 Lightswitch is free. If it's useful to you,
 [subscribe on YouTube](https://www.youtube.com/@taylorbrauer?sub_confirmation=1)
-or [buy me a coffee](https://buymeacoffee.com/taylorcbrauer).
+or [buy me a coffee](https://buymeacoffee.com/taylorbrauer).
 
 ## Problems or ideas
 
