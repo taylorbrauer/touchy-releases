@@ -18,7 +18,7 @@ This repository hosts Touchy's signed releases and its issue tracker.
 
 ## Download
 
-**[Download the latest version](https://github.com/taylorbrauer/touchy-releases/releases/latest/download/Touchy.zip)**. It's free, needs macOS 14 Sonoma or later, and is signed and notarized by Apple.
+**[Download the latest version](https://github.com/taylorbrauer/touchy-releases/releases/latest/download/Touchy.zip)**. It's free, needs macOS 27.2 or later, and is signed and notarized by Apple.
 
 Older versions and release notes are on the [Releases page](https://github.com/taylorbrauer/touchy-releases/releases).
 
