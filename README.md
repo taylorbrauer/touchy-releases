@@ -20,16 +20,23 @@ This repository hosts Touchy's signed releases and its issue tracker.
 
 **[Download the latest version](https://github.com/taylorbrauer/touchy-releases/releases/latest/download/Touchy.zip)**. It's free, needs macOS 27.2 or later, and is signed and notarized by Apple.
 
-Older versions and release notes are on the [Releases page](https://github.com/taylorbrauer/touchy-releases/releases).
+Or with [Homebrew](https://brew.sh):
+
+```sh
+brew install taylorbrauer/tap/touchy
+```
+
+Release notes are on the [Releases page](https://github.com/taylorbrauer/touchy-releases/releases).
 
 ## Install
 
 1. Unzip the download and drag **Touchy.app** into **Applications**, then open it.
-2. Click the switch icon in the menu bar, press **Install Helper**, and allow
-   **Touchy** in System Settings → General → Login Items & Extensions.
+2. Touchy's setup window opens on first launch. Click **Allow**, then switch
+   **Touchy** on in System Settings → General → Login Items & Extensions.
    This one-time approval lets the logo switch work without a password prompt.
-3. The first time you flip the touch switch, approve the standard
-   **Accessibility** prompt. That's the last thing macOS asks.
+3. Click **Grant Access** and approve the standard **Accessibility** prompt.
+   Touchy uses it only to flip Apple's own Touch switch for you. That's the
+   last thing macOS asks.
 
 ## What it does
 
@@ -57,4 +64,5 @@ and include your macOS version and system language.
 ## Uninstall
 
 Quit the app, remove its entry in System Settings → General → Login Items &
-Extensions, then drag it to the Trash.
+Extensions, then drag it to the Trash. If you installed with Homebrew,
+`brew uninstall --zap touchy` does all of that.
