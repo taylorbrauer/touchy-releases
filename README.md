@@ -7,7 +7,7 @@
 <p align="center"><strong>Touch Screen &amp; Logo Toggle</strong></p>
 
 <p align="center">
-  Menu bar switches for the MacBook Pro's hardware extras:<br>
+  Menu bar switches for the MacBook Pro PROLED XDR's hardware extras:<br>
   the glowing Apple logo and the touch screen.<br><br>
   <a href="https://touchymac.com">touchymac.com</a>
 </p>
@@ -41,7 +41,7 @@ Release notes are on the [Releases page](https://github.com/taylorbrauer/touchy-
 ## What it does
 
 - **Apple logo glow**: turn the illuminated Apple logo on the lid on or off
-  (MacBook Pro with PROLED XDR display).
+  (MacBook Pro PROLED XDR).
 - **Touch**: enable or disable the built-in touch screen without opening
   System Settings.
 - **Global shortcuts**: **⌃⌥T** toggles touch and **⌃⌥L** toggles the logo

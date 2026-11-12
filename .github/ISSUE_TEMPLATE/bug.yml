@@ -27,7 +27,7 @@ body:
     id: macos
     attributes:
       label: macOS version and Mac model
-      placeholder: "macOS 27.2, MacBook Pro 14-inch (2026)"
+      placeholder: "macOS 27.2, MacBook Pro PROLED XDR 14-inch"
     validations:
       required: true
   - type: input
