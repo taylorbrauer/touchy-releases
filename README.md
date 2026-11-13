@@ -46,6 +46,12 @@ Release notes are on the [Releases page](https://github.com/taylorbrauer/touchy-
   System Settings.
 - **Global shortcuts**: **⌃⌥T** toggles touch and **⌃⌥L** toggles the logo
   glow, from any app.
+- **Focus filters**: pick logo and touch settings per Focus (System Settings
+  → Focus → a Focus → Focus Filters → Touchy). They go back when it ends.
+- **App rules**: set the switches while a specific app is in front, like
+  touch off in Final Cut Pro (Touchy → Settings → Automation).
+- **Shortcuts actions**: Set Logo Glow and Set Touch Screen, for your own
+  shortcuts and automations.
 
 - **Updates**: Touchy tells you when a new version is out and installs it
   for you, if you choose to.
