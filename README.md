@@ -47,7 +47,12 @@ Release notes are on the [Releases page](https://github.com/taylorbrauer/touchy-
 - **Global shortcuts**: **⌃⌥T** toggles touch and **⌃⌥L** toggles the logo
   glow, from any app.
 
-Touchy has no analytics and makes no network connections.
+- **Updates**: Touchy tells you when a new version is out and installs it
+  for you, if you choose to.
+
+Touchy has no analytics and sends nothing about you or your Mac. Its only
+network connection is the update check, which asks your permission first and
+can be turned off in Settings.
 
 ## Support
 
